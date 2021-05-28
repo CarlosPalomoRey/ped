@@ -1,0 +1,4 @@
+Pasada de chat que se puede poner a funcionar levantando primero
+el servidor y a continuación los clientes con "make servidor" y "make cliente"
+o ejecutando "serv7_v2.py" y "cli7_v2.py" respectivamente.
+
